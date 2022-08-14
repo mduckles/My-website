@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p>micah@duckles.org</p>
+	<p>Contact at micah@duckles.org or micah.duckles@gmail.org</p>
 </footer>
 
 <style>
